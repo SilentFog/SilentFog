@@ -48,13 +48,36 @@ Hi! I'm a **Frontend Developer** from Ukraine 🇺🇦, specializing in building
 
 ---
 
-### 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
-* **[TaskFlow (React + FSD)](https://github.com/SilentFog/taskflow-react-fsd)** — A modern task manager featuring filtering, search, local storage persistence, and a scalable FSD architecture.
-  * 🔗 *[Live Demo](https://taskflow-react-fsd.vercel.app)*
+
+
+### 1. 📝 [TaskFlow](https://github.com/SilentFog/taskflow-react-fsd) — *Modern Task Management App*
+
+![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![FSD](https://img.shields.io/badge/Architecture-FSD-6366F1?style=for-the-badge)
+
+> **Architecture:** Scalable frontend structure built strictly following **Feature-Sliced Design (FSD)** guidelines.  
+> **Key Features:** Full CRUD workflow, real-time Open-Meteo weather API integration, priority filtering, dynamic progress analytics, and `localStorage` state persistence.
+
+🌐 **[Live Demo](https://taskflow-react-fsd.vercel.app/)** &nbsp;•&nbsp; 📦 **[GitHub Repository](https://github.com/SilentFog/taskflow-react-fsd)**
 
 ---
 
+### 2. 🏛️ [Wishbone+Partners](https://github.com/SilentFog/wishbone-html-scss-bem) — *Architecture & Interior Design Portfolio*
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![BEM](https://img.shields.io/badge/Methodology-BEM-0EA5E9?style=for-the-badge)
+
+> **Architecture:** Modular, component-driven styling architecture using **BEM methodology**.  
+> **Key Features:** Pixel-perfect responsive layout, semantic HTML5 structure, and clean SCSS architecture.
+
+🌐 **[Live Demo](https://wishbone-html-scss-bem.vercel.app/)** &nbsp;•&nbsp; 📦 **[GitHub Repository](https://github.com/SilentFog/wishbone-html-scss-bem)**
+
+---
 ### 📜 Certificates & Courses
 
 * **Front-End Fundamentals Course** (CSS Advanced, DOM, OOP Intro, Ajax, JS Advanced, Front-End Optimization)
